@@ -1,0 +1,2 @@
+# Implementation-of-a-non_pre-emptive-scheduling-algorithm
+This project implements a non-preemptive scheduling algorithm that assigns job priorities based on estimated run times and waiting times. It provides dynamic user input, real-time priority visualization, Gantt chart generation, and waiting time calculations, offering a practical tool for understanding scheduling strategies and resource management.
